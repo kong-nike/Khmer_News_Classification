@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Khmer News Classification Using Traditional Machine Learning Algorithms"
+abstract: "A reproducible experimental workflow for Khmer-language news classification comparing four traditional machine learning algorithms (Multinomial Naive Bayes, Logistic Regression, Linear SVM, Random Forest) under Bag of Words and TF-IDF representations (word- and character-level) on the KhNeAC dataset with six segmentation configurations."
+authors:
+  - family-names: "[Family Name]"
+    given-names: "[Given Name]"
+    affiliation: "Data Science Program, [University]"
+version: 1.0.0
+date-released: "2026-11-10"
+license: MIT
+repository-code: "https://github.com/[your-username]/khmer-news-classification"
+keywords:
+  - Khmer NLP
+  - text classification
+  - machine learning
+  - TF-IDF
+  - word segmentation
+  - reproducibility

@@ -1,0 +1,16 @@
+# Khmer News Classification — dependency pins (loose, tested ranges)
+# Core
+datasets>=2.19          # Hugging Face Hub data loading (KhNeAC)
+scikit-learn>=1.3       # needed for LinearSVC(dual="auto")
+pandas>=2.0
+numpy>=1.24
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Persistence
+joblib>=1.3
+
+# Notebook environment (optional locally; preinstalled on Colab)
+jupyterlab>=4.0
